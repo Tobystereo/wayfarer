@@ -1,0 +1,546 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the",
+				"the_text"
+			],
+			[
+				"th",
+				"the_text"
+			],
+			[
+				"data",
+				"dataobjects"
+			],
+			[
+				"dat",
+				"dataobjects"
+			],
+			[
+				"ev",
+				"events	Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"e",
+				"event	Meteor: Add a new event item"
+			],
+			[
+				"design",
+				"designfilter"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"this",
+				"thisFilterIsChecked"
+			],
+			[
+				"color",
+				"color-primary"
+			],
+			[
+				"color-g",
+				"color-dark-gray"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"colo",
+				"color-primary"
+			],
+			[
+				"fon",
+				"font-headline"
+			],
+			[
+				"nav",
+				"nav_items"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"Sess",
+				"Session.get	Meteor: Session.get(key)"
+			],
+			[
+				"all",
+				"all_nav_variable_names"
+			],
+			[
+				"curr",
+				"currentTarget"
+			],
+			[
+				"var",
+				"variable_name"
+			],
+			[
+				"Session",
+				"Session.set	Meteor: Session.set(key, value)"
+			],
+			[
+				"tet",
+				"textarea	Tag"
+			],
+			[
+				"tag",
+				"tag_filters"
+			],
+			[
+				"ass",
+				"assetFiltersTag"
+			],
+			[
+				"editi",
+				"editing_tag_id"
+			],
+			[
+				"edi",
+				"editing_tag_id"
+			],
+			[
+				"Se",
+				"Session.get	Meteor: Session.get(key)"
+			],
+			[
+				"id",
+				"_id"
+			],
+			[
+				"the_",
+				"read_the_id"
+			],
+			[
+				"read",
+				"read_the_id"
+			],
+			[
+				"the_id",
+				"the_id_array"
+			],
+			[
+				"the_tag",
+				"the_tag_name"
+			],
+			[
+				"applied",
+				"appliedtags"
+			],
+			[
+				"applie",
+				"appliedtags"
+			],
+			[
+				"new",
+				"newAssetTags"
+			],
+			[
+				"newAs",
+				"newAssetTags"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"light",
+				"lightgray"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"add",
+				"adding_category"
+			],
+			[
+				"Sessi",
+				"Session.set	Meteor: Session.set(key, value)"
+			],
+			[
+				"Conver",
+				"Conversations"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7354,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 291.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/toby/Google Drive/tobiastreppmannresume/Celonis/prototype"
+	],
+	"file_history":
+	[
+		"/Users/toby/Dropbox/Notes/Gamification Course/Written Assignment 3.html",
+		"/Users/toby/Downloads/www/cardboard/index.html",
+		"/Users/toby/Downloads/www/cardboard/test.html",
+		"/Users/toby/Desktop/sizes.html",
+		"/Users/toby/Documents/htmlprototype/htmlprototype/products.json",
+		"/Users/toby/Documents/htmlprototype/htmlprototype/products.json\\",
+		"/Users/toby/Documents/htmlprototype/htmlprototype/products.md",
+		"/Users/toby/Downloads/raus.xml",
+		"/Users/toby/Google Drive/Spreadshirt/Tablomat/CYO Prototype/css_mask.html",
+		"/Users/toby/hello@tobystereo.com/htdocs/oratio/oratio/html/requests.html",
+		"/Users/toby/hello@tobystereo.com/htdocs/oratio/oratio/oratio.html",
+		"/Users/toby/hello@tobystereo.com/htdocs/oratio/oratio/client/router.js",
+		"/Users/toby/hello@tobystereo.com/htdocs/oratio/oratio/oratio.js",
+		"/Users/toby/hello@tobystereo.com/htdocs/oratio/html/requests.html",
+		"/Users/toby/hello@tobystereo.com/htdocs/oratio/html/footer.html",
+		"/Users/toby/hello@tobystereo.com/htdocs/oratio/oratio.html",
+		"/Users/toby/hello@tobystereo.com/htdocs/oratio/oratio.scss",
+		"/Users/toby/hello@tobystereo.com/htdocs/oratio/client/main.js",
+		"/Users/toby/hello@tobystereo.com/htdocs/oratio/client/router.js",
+		"/Users/toby/Desktop/tasks.txt",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/grapher/grapher.sublime-project",
+		"/Users/toby/Library/Group Containers/P97H7FTHWN.com.realmacsoftware.ember/Preferences/P97H7FTHWN.com.realmacsoftware.ember.plist",
+		"/Users/toby/Library/Mobile Documents/com~apple~CloudDocs/id_rsa.pub",
+		"/Users/toby/Documents/stereotype/stereotype/template_one_collection.html",
+		"/Users/toby/Documents/stereotype/stereotype/stereotype.js",
+		"/private/var/folders/v8/p5b5tv_95r73k4j84w90_cym0000gn/T/com.soulmen.ulysses3/1a5e1c197fd44edd97ffb1d783100c96/3bfb9c6374294e0d98d87c16964e2dc4/RichText/HD (copy).ulss",
+		"/Users/toby/Documents/htmlprototype/htmlprototype/htmlprototype.html",
+		"/Users/toby/Documents/htmlprototype/htmlprototype/countries.md",
+		"/Users/toby/Documents/htmlprototype/htmlprototype/shops.md",
+		"/Users/toby/Documents/htmlprototype/htmlprototype/htmlprototype.css",
+		"/Users/toby/Documents/htmlprototype/htmlprototype/.gitignore",
+		"/Users/toby/Documents/htmlprototype/htmlprototype/htmlprototype.sublime-project",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/LendLib.js",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/client/foundation/css/normalize.css",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/countries.md",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/.meteor/local/build/programs/server/app/LendLib.js",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/.meteor/local/build/programs/web.browser/app/LendLib.js",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/.meteor/local/build/programs/web.browser/app/template.LendLib.js",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/css/LendLib.css",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/fonts.js",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/min/LendLib-min.js",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/.meteor/local/db/METEOR-PORT",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/.meteor/local/build/programs/ctl/node_modules/http-proxy/node_modules/eventemitter3/benchmarks/run/multiple-emitters.js",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/.meteor/local/build/main.js",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/client/foundation/humans.txt",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/.meteor/local/build/programs/ctl/npm/livedata/main/node_modules/faye-websocket/examples/haproxy.conf",
+		"/Users/toby/hello@tobystereo.com/htdocs/Meteor/LendLib/.meteor/local/build/programs/ctl/node_modules/http-proxy/examples/http/error-handling.js",
+		"/Users/toby/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/toby/chatapp/.meteor/local/build/programs/ctl/node_modules/npm/lib/install.js",
+		"/Users/toby/chatapp/.meteor/local/build/programs/client/packages/insecure.js",
+		"/Users/toby/chatapp/.meteor/local/build/programs/ctl/npm/logging/main/node_modules/cli-color/node_modules/es5-ext/lib/Number/is-nan.js",
+		"/Users/toby/chatapp/.meteor/local/build/programs/ctl/node_modules/source-map/node_modules/amdefine/intercept.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n",
+			"	",
+			"</a></li>",
+			"\"><a href=\"javascript:void(0);\">",
+			"<li class=\" sub-filter-item size-item size-item-",
+			"length",
+			"★",
+			"❏ ",
+			"target",
+			" t.",
+			"e.target",
+			"sort",
+			"designfilters",
+			"sort",
+			"assets",
+			"$hdblue",
+			"$cool-blue",
+			"$black",
+			"assetFilters",
+			"apply filters",
+			"apply filters\\",
+			"apply filters",
+			"template.productFilters",
+			"asset\"",
+			"asset",
+			"filters:",
+			"Show",
+			"unpublished",
+			"assets\"",
+			"list",
+			"sort",
+			"go",
+			"sort",
+			"designfilter",
+			"sort",
+			"applyfilters",
+			"Filter by",
+			"asset\"",
+			"list",
+			"designFilters",
+			"edit",
+			"nav",
+			"designFilters",
+			"list",
+			"name=\"asset",
+			"productfilter_kids_all_selectionstat",
+			"data-targetclass=\"",
+			"productfilterstab_men",
+			"assets",
+			"productfilter_men_all",
+			"filter",
+			"edit",
+			"editing",
+			"asset",
+			"delete",
+			"bulk",
+			"name=\"asset",
+			"bulk",
+			"asset",
+			"product_category_men_selected",
+			"assortment",
+			"\":",
+			"\":{",
+			"\"},\n\n{\"",
+			",\n{\"name\":",
+			",{\"name\":",
+			"designfilter",
+			"designFilter",
+			"add new asset",
+			"assets",
+			"approved_for_POS_filter",
+			".box",
+			"nav",
+			"console",
+			"new",
+			"new_asset",
+			"add_new",
+			"Edit",
+			"assetnotfilter",
+			"add_edit_assets",
+			"new_asset",
+			"{country:",
+			"},",
+			"\"country\"",
+			"\"language\"",
+			"insert({",
+			"newAssetTagContainer",
+			"assets.eve",
+			"for",
+			"insert"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			", ",
+			"",
+			"\n	",
+			"",
+			"$primary",
+			"$secondary",
+			"$dark",
+			"productfilterstab_men_NA",
+			"NA_productfilter_men_all",
+			"\" : ",
+			"\" : {",
+			"\"});\n\nproducts.insert{\"region\" : \"EU\", \"",
+			",\n\n{\"name\":",
+			",\n{\"name\":",
+			"addeditassets",
+			"new_edit_asset",
+			"countries.insert({country:",
+			"});",
+			"country",
+			"language"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "wayfarer.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
