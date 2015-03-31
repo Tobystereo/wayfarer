@@ -24,8 +24,8 @@ This document outline the app interface of wayfarer.
 
  While the first screen is somewhat responsive, the prototype of the app interface is best viewed in a webkit browser at a minimum dimension of 1460x960 (1450x860 viewport).  
 
- ## Questions
+## Questions
 
- Please don't hesitate to get in touch with any questions
+Please don't hesitate to get in touch with any questions
 
- [hello@tobystereo.com](mailto:hello@tobystereo.com)
+[hello@tobystereo.com](mailto:hello@tobystereo.com)
