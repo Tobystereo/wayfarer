@@ -6480,3 +6480,15 @@ hr {
     color: #018abc; }
     .tabs .tab.inactive {
       background-color: rgba(0, 0, 0, 0.25); }
+
+.process {
+  width: 100%;
+  display: block;
+  position: absolute;
+  bottom: 1rem; }
+  .process a {
+    display: block;
+    width: 100%;
+    text-align: center;
+    left: 1rem;
+    color: #333; }

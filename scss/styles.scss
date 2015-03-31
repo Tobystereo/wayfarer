@@ -497,3 +497,18 @@ hr {
 
 	
 }
+
+.process {
+	width: 100%;
+	display: block;
+	position: absolute;
+	bottom: 1rem;
+	
+	& a {
+		display: block;
+		width: 100%;
+		text-align: center;
+		left: 1rem;
+		color: $gray;
+	}
+}
