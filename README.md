@@ -17,6 +17,12 @@ This document outline the app interface of wayfarer.
 
 ![First Sketches on Paper](/img/process.jpg)
 
+![HTML Prototype](/img/prototype.png)
+
+![HTML Prototype](/img/prototype2.png)
+
+![HTML Prototype](/img/prototype3.png)
+
 ## Output
 
  * UX Concept Document: [Download](/Wayfarer_UX_Concept_TobiasTreppmann.pdf) 
