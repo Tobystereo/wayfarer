@@ -1,29 +1,31 @@
-# Foundation Compass Template
+# WAYFARER UX CONCEPT
 
-The easiest way to get started with Foundation + Compass.
 
-## Requirements
+**Wayfarer is a travel planner for superheroes. It is the easiest to find the fastest route to your destination. **
 
-  * Ruby 1.9+
-  * [Node.js](http://nodejs.org)
-  * [compass](http://compass-style.org/): `gem install compass`
-  * [bower](http://bower.io): `npm install bower -g`
+Adding cities along the way is a breeze. And its just as easy to avoid cities that you know you can’t be seen in at the moment. 
 
-## Quickstart
+This document outline the app interface of wayfarer.
 
-  * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
-  * Run `bower install` to install the latest version of Foundation
-  
-Then when you're working on your project, just run the following command:
+## Process
 
-```bash
-bundle exec compass watch
-```
+ * Analyzing and researching the user and their needs and created a persona. 
+ * Information architecture and flow.
+ * First interface ideas and flows. Some of the ideas were kept, some were dismissed.
+ * Wireframes of the interface and interactions
+ * HTML prototype to showcase the flow and interactions in a native environment.
 
-## Upgrading
+![First Sketches on Paper](/img/process.jpg)
 
-If you'd like to upgrade to a newer version of Foundation down the road just run:
+## Output
 
-```bash
-bower update
-```
+ * UX Concept Document: [Download](/Wayfarer_UX_Concept_TobiasTreppmann.pdf) 
+ * Interactive Prototype: [Visit](http://tobystereo.github.io/wayfarer/) 
+
+ While the first screen is somewhat responsive, the prototype of the app interface is best viewed in a webkit browser at a minimum dimension of 1460x960 (1450x860 viewport).  
+
+ ## Questions
+
+ Please don't hesitate to get in touch with any questions
+
+ [hello@tobystereo.com](mailto:hello@tobystereo.com)
